@@ -21,6 +21,7 @@ Este é um jogo da velha simples feito para rodar no terminal, utilizando a bibl
 
 ```bash
 pip install numpy
+```
 
 Como Jogar
 O jogo irá mostrar o tabuleiro com espaços vazios (representados por " ").
@@ -39,7 +40,7 @@ Um jogador alinha 3 peças (vitória)
 
 Todas as posições estão ocupadas (empate)
 
-Exemplo de Execução
+```Exemplo de Execução
 
   |   |  
 --------

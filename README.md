@@ -23,7 +23,7 @@ Este é um jogo da velha simples feito para rodar no terminal, utilizando a bibl
 pip install numpy
 ```
 
-###Como Jogar
+### Como Jogar
 
 O jogo irá mostrar o tabuleiro com espaços vazios (representados por " ").
 
